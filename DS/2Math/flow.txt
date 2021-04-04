@@ -1,0 +1,11 @@
+Primality test
+Factor Smart trick
+Eucleadian algo
+Sieve of eratostheneses
+Segmented sieve
+Power in log(x)
+Prime factorization
+Extended Eucleadian
+Chinese Remainder Theorem
+Fermat theorem
+Modolu Arithmetic
