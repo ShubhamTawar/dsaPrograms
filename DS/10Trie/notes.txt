@@ -1,0 +1,13 @@
+Applications of Trie =>
+		1. AutoComplete feature
+		2. Spell Checkers
+		3. Longest prefix Matching
+		4. String search in O(L) time where L is the length of the String
+
+
+Basic Operations =>
+		
+		1. Insertion
+		2. Searching a word in Trie
+		3. Prefix search
+		4. Deletion of a word
